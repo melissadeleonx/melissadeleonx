@@ -11,14 +11,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-melissadeleonx-blue?style=for-the-badge&logo=linkedin" alt="Melissa De Leon's LinkedIn"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://raw.githubusercontent.com/melissadeleonx/melissadeleonx/main/melissadeleon-id.png">
+    <img src="https://raw.githubusercontent.com/melissadeleonx/melissadeleonx/main/melissadeleon-id.png" width="500" alt="Galactic ID">
+  </a>
+</p>
 
-<table style="margin:auto;">
+<table style="margin:auto;" align="center;">
   <tr>
-    <td style="text-align: center;">
-      <a href="https://raw.githubusercontent.com/melissadeleonx/melissadeleonx/main/melissadeleon-id.png">
-        <img src="https://raw.githubusercontent.com/melissadeleonx/melissadeleonx/main/melissadeleon-id.png" width="500" alt="Galactic ID">
-      </a>
-    </td>
     <td style="text-align: left; vertical-align: top;">
       <table>
         <tr>
