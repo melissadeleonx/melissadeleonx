@@ -87,7 +87,7 @@
 
 Hey, welcome to this corner of the profile page! Congrats on making it here! I'm just a human like you (or maybe not), with out-of-this-world ideas.
 
-If you're in the same cosmic boat, say hi at primavita@gmail.com 
+If you're in the same cosmic boat, say hi at primavita19@gmail.com 
 
 GitHub is my playground, and I'm always around—like, always. I aspire to make significant contributions to extraordinary projects. I only stepped into the world of programming last year, and I'm excited to continue the journey!
 
