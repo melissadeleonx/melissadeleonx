@@ -17,66 +17,62 @@
   </a>
 </p>
 
-<table style="margin:auto;" align="center;">
-  <tr>
-    <td style="text-align: left; vertical-align: top;">
-      <table>
-        <tr>
-          <td><b>Name:</b></td>
-          <td>Melissa De Leon</td>
-        </tr>
-        <tr>
-          <td><b>Code Name:</b></td>
-          <td>melissadeleonx</td>
-        </tr>
-        <tr>
-          <td><b>Species:</b></td>
-          <td>Humanoid</td>
-        </tr>
-        <tr>
-          <td><b>Current Mission:</b></td>
-          <td>Mastering Full-Stack Web Development</td>
-        </tr>
-        <tr>
-          <td><b>Future Goals:</b></td>
-          <td>Create the extraordinary</td>
-        </tr>
-        <tr>
-          <td><b>Division:</b></td>
-          <td>Science and Technology</td>
-        </tr>
-        <tr>
-          <td><b>Ship:</b></td>
-          <td>Github Enterprise</td>
-        </tr>
-        <tr>
-          <td><b>Home Planet:</b></td>
-          <td>Earth</td>
-        </tr>
-        <tr>
-          <td><b>Favorite Star System:</b></td>
-          <td>Alpha Centauri</td>
-        </tr>
-        <tr>
-          <td><b>Language:</b></td>
-          <td>English, Filipino, Italian, Japanese</td>
-        </tr>
-        <tr>
-          <td><b>Favorite Quote:</b></td>
-          <td>"To boldly go where no one has gone before."</td>
-        </tr>
-        <tr>
-          <td><b>Hobbies:</b></td>
-          <td>Playing Chess, deploying websites</td>
-        </tr>
-        <tr>
-          <td><b>Ongoing Projects:</b></td>
-          <td>uniVVV - an Intergalactic Social Media website</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Name:</b></td>
+      <td>Melissa De Leon</td>
+    </tr>
+    <tr>
+      <td><b>Code Name:</b></td>
+      <td>melissadeleonx</td>
+    </tr>
+    <tr>
+      <td><b>Species:</b></td>
+      <td>Humanoid</td>
+    </tr>
+    <tr>
+      <td><b>Current Mission:</b></td>
+      <td>Mastering Full-Stack Web Development</td>
+    </tr>
+    <tr>
+      <td><b>Future Goals:</b></td>
+      <td>Create the extraordinary</td>
+    </tr>
+    <tr>
+      <td><b>Division:</b></td>
+      <td>Science and Technology</td>
+    </tr>
+    <tr>
+      <td><b>Ship:</b></td>
+      <td>Github Enterprise</td>
+    </tr>
+    <tr>
+      <td><b>Home Planet:</b></td>
+      <td>Earth</td>
+    </tr>
+    <tr>
+      <td><b>Favorite Star System:</b></td>
+      <td>Alpha Centauri</td>
+    </tr>
+    <tr>
+      <td><b>Language:</b></td>
+      <td>English, Filipino, Italian, Japanese</td>
+    </tr>
+    <tr>
+      <td><b>Favorite Quote:</b></td>
+      <td>"To boldly go where no one has gone before."</td>
+    </tr>
+    <tr>
+      <td><b>Hobbies:</b></td>
+      <td>Playing Chess, deploying websites</td>
+    </tr>
+    <tr>
+      <td><b>Ongoing Projects:</b></td>
+      <td>uniVVV - an Intergalactic Social Media website</td>
+    </tr>
+  </table>
+</div>
 
 
 ___
