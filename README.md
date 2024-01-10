@@ -89,9 +89,14 @@ Hey, welcome to this corner of the profile page! Congrats on making it here! I'm
 
 If you're in the same cosmic boat, say hi at primavita19@gmail.com 
 
-GitHub is my playground, and I'm always around—like, always. I aspire to make significant contributions to extraordinary projects. I only stepped into the world of programming last year, and I'm excited to continue the journey!
+GitHub is my playground, and I'm always around—like, always. I aspire to make significant contributions to extraordinary projects.
 
-That's it for now! I'm warping into the code galaxy. See you on the other side! 🚀
+**Daily Status:** On a new project today while pondering ways to elevate the existing ones. 
+
+### Message to self:
+Enjoy the process. Remember, time is just a concept of Earth's revolutions and rotations around the sun—no need to feel pressured. Code at your own cosmic pace. 
+
+That's it for now! I'm warping into my Github galaxy. See you on the other side! 🚀
 
 ---
 
