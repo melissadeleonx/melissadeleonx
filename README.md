@@ -1,7 +1,7 @@
 <h1 align="center">
 <a href="https://tech-journey-melissadeleonx.vercel.app" target="_blank">Welcome to my Github Universe!</a>
 </h1>
-<a href="https://raw.githubusercontent.com/melissadeleonx/melissadeleonx/main/melissadeleonx-video.gif" target="_blank"><img src="https://raw.githubusercontent.com/melissadeleonx/melissadeleonx/main/melissadeleonx-video.gif" /></a>
+<a href="https://raw.githubusercontent.com/melissadeleonx/melissadeleonx/main/github cover.gif" target="_blank"><img src="https://raw.githubusercontent.com/melissadeleonx/melissadeleonx/maingithub cover.gif" /></a>
 
 <p align="center">
   <a href="https://twitter.com/melissadeleonx">
