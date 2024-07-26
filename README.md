@@ -78,7 +78,7 @@
     </tr>
     <tr>
       <td><b>Portfolio:</b></td>
-      <td>📂 https://tech-journey-melissadeleonx.vercel.app</td>
+      <td>📂 https://melissadeleon.com/</td>
     </tr>
   </table>
 </div>
