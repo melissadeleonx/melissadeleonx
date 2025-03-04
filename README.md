@@ -70,7 +70,7 @@
     </tr>
     <tr>
       <td><b>Hobbies:</b></td>
-      <td>♟️ Playing Chess, deploying websites</td>
+      <td>♟️ Playing Chess, deploying websites, bug hunting on Google</td>
     </tr>
     <tr>
       <td><b>Ongoing Projects:</b></td>
