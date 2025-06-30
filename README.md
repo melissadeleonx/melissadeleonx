@@ -1,7 +1,6 @@
 <h1 align="center">
 <a href="https://tech-journey-melissadeleonx.vercel.app" target="_blank">Welcome to my Github Universe!</a>
 </h1>
-<a href="https://raw.githubusercontent.com/melissadeleonx/melissadeleonx/main/github_cover.gif" target="_blank"><img src="https://raw.githubusercontent.com/melissadeleonx/melissadeleonx/main/github_cover.gif" /></a>
 
 <p align="center">
   <a href="https://twitter.com/melissadeleonx">
@@ -18,7 +17,7 @@
 </p>
 
 <div align="center">
-  <h2 align="center"> 🌌 Galactic Profile</h2>
+  <h2 align="center"> Space Profile</h2>
   <table>
     <tr>
       <td><b>Name:</b></td>
@@ -38,11 +37,11 @@
     </tr>
     <tr>
       <td><b>Location:</b></td>
-      <td>🍕 Palermo, Italy</td>
+      <td>🍕 Italia!!</td>
     </tr>
     <tr>
       <td><b>Current Mission:</b></td>
-      <td>👩‍💻 Mastering Full-Stack Web Development</td>
+      <td>👩‍💻 Save the world</td>
     </tr>
     <tr>
       <td><b>Future Goals:</b></td>
@@ -62,7 +61,7 @@
     </tr>
     <tr>
       <td><b>Language:</b></td>
-      <td>🗣️ English, Filipino, Italian, Japanese</td>
+      <td>🗣️ English, Filipino, Italian, anime Japanese, kdrama Korean, learning Chinese coz wuxia is life!</td>
     </tr>
     <tr>
       <td><b>Favorite Quote:</b></td>
@@ -74,7 +73,7 @@
     </tr>
     <tr>
       <td><b>Ongoing Projects:</b></td>
-      <td>🛠️ uniVVV - an Intergalactic Social Media website</td>
+      <td>Nothing, just lurking on Google for rewards, LOL</td>
     </tr>
     <tr>
       <td><b>Portfolio:</b></td>
