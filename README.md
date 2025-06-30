@@ -83,16 +83,6 @@
   </table>
 </div>
 
-## About Me
-
-Hey, welcome to this corner of the profile page! Congrats on making it here! I'm just a human like you (or maybe not), with out-of-this-world ideas.
-
-If you're in the same cosmic boat, say hi at primavita19@gmail.com 
-
-GitHub is my playground, and I'm always around—like, always. I aspire to make significant contributions to extraordinary projects.
-
-**Daily Status:** On a new project today while pondering ways to elevate the existing ones. 
-
 ### Message to self:
 Enjoy the process. Remember, time is just a concept of Earth's revolutions and rotations around the sun—no need to feel pressured. Code at your own cosmic pace. 
 
