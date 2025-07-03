@@ -68,8 +68,8 @@
       <td>💬 "Failure is not the end, but a comma in the story of success."</td>
     </tr>
     <tr>
-      <td><b>Hobbies:</b></td>
-      <td>♟️ Playing Chess, deploying websites, bug hunting on Google</td>
+      <td><b>Skills:</b></td>
+      <td>♟️ webdev, bug hunting, pen testing, cloud devops</td>
     </tr>
     <tr>
       <td><b>Ongoing Projects:</b></td>
